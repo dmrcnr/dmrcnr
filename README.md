@@ -15,19 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <center>Electrical & Electronics Engineer | Lifetime Learner</center>
+<h2 align="center">Electrical & Electronics Engineer | Lifetime Learner</h2>
 
-<center><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gjr6med5nksautc6c53qmjqkb1zuptbul6vyhppk&rid=giphy.gif&ct=g" width="500" height="300"></center><br>
+<p align="center" dir="auto">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gjr6med5nksautc6c53qmjqkb1zuptbul6vyhppk&rid=giphy.gif&ct=g" width="500" height="300"></center><br>
+</p>
 
 
-### <br><center>Connect With Me 
+<h3 align="center">Connect With Me </h3>
 <p align="center" dir="auto">
     <a href="https://www.twitter.com/dmrcnrr" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
     <a href="https://www.linkedin.com/in/mcanerdemir" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>&nbsp;&nbsp;
     <a href="http://www.instagram.com/mcanerdemirr" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>
 </p><br>
 
-### <center>Languages and Tools
+<h3 align="center">Languages and Tools</h3>
 <p align="center" dir="auto"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" style="max-width: 100%;"></a>
     <a href="https://reactjs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="max-width: 100%;"></a>
