@@ -1,4 +1,4 @@
-## <center>Hi 👋, I'm Caner :blush:
+<h1 align="center">Hi 👋, I'm Caner Demir</h1>
 
 <!--
 **dmrcnr/dmrcnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
