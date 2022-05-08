@@ -1,4 +1,4 @@
-# <center>Hi 👋, I'm Caner :blush:</center>
+## <center>Hi 👋, I'm Caner :blush:
 
 <!--
 **dmrcnr/dmrcnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 </p><br><br><br>
 
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40790d70294a52ea6ee1dd52ab182c0d3c489cf636a7028d9ea5411bb263eac5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656d6972786d6572746f676c752673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d7265616374"><img src="https://camo.githubusercontent.com/40790d70294a52ea6ee1dd52ab182c0d3c489cf636a7028d9ea5411bb263eac5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656d6972786d6572746f676c752673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d7265616374" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dmrcnr&show_icons=true&count_private=true&theme=react" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=dmrcnr&show_icons=true&theme=react"><img src="https://github-readme-stats.vercel.app/api?username=dmrcnr&show_icons=true&theme=react" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dmrcnr&show_icons=true&theme=react" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dcc6ccece97d7ae7cdc9160f6f0dd72c80e6da543beed77abab783224bc19dc7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d656d6972786d6572746f676c75267468656d653d7265616374"><img src="https://camo.githubusercontent.com/dcc6ccece97d7ae7cdc9160f6f0dd72c80e6da543beed77abab783224bc19dc7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d656d6972786d6572746f676c75267468656d653d7265616374" alt="dmrcnr" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=dmrcnr&theme=react" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=dmrcnr&theme=react"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dmrcnr&theme=react" alt="dmrcnr" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=dmrcnr&theme=react" style="max-width: 100%;"></a></p>
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/335dc69bb2ebeaa0a28fc182287a9bff0b3d67310907f3720fad027707d2ba43/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d656d6972786d6572746f676c75266c61796f75743d636f6d70616374267468656d653d7265616374" alt="dmrcnr" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=dmrcnr&layout=compact&theme=react" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmrcnr&layout=compact&theme=react" alt="dmrcnr" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=dmrcnr&layout=compact&theme=react" style="max-width: 100%;">
 </p>
 
 
