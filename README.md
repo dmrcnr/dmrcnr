@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <center><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gjr6med5nksautc6c53qmjqkb1zuptbul6vyhppk&rid=giphy.gif&ct=g" width="500" height="300"></center><br>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=dmrcnr)
-
 ### <br><center>Connect With Me 
 <p align="center" dir="auto">
     <a href="https://www.twitter.com/dmrcnrr" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="max-width: 100%;"></a>&nbsp;
@@ -39,10 +37,14 @@ Here are some ideas to get you started:
     <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;"></a> 
 </p><br><br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Mustafa Caner's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmrcnr&show_icons=true&theme=react&count_private=true)](https://github.com/dmrcnr)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmrcnr&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40790d70294a52ea6ee1dd52ab182c0d3c489cf636a7028d9ea5411bb263eac5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656d6972786d6572746f676c752673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d7265616374"><img src="https://camo.githubusercontent.com/40790d70294a52ea6ee1dd52ab182c0d3c489cf636a7028d9ea5411bb263eac5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656d6972786d6572746f676c752673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d7265616374" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dmrcnr&show_icons=true&count_private=true&theme=react" style="max-width: 100%;"></a></p>
 
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/dcc6ccece97d7ae7cdc9160f6f0dd72c80e6da543beed77abab783224bc19dc7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d656d6972786d6572746f676c75267468656d653d7265616374"><img src="https://camo.githubusercontent.com/dcc6ccece97d7ae7cdc9160f6f0dd72c80e6da543beed77abab783224bc19dc7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d656d6972786d6572746f676c75267468656d653d7265616374" alt="dmrcnr" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=dmrcnr&theme=react" style="max-width: 100%;"></a></p>
+
+<p align="center">
+    <img src="https://camo.githubusercontent.com/335dc69bb2ebeaa0a28fc182287a9bff0b3d67310907f3720fad027707d2ba43/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d656d6972786d6572746f676c75266c61796f75743d636f6d70616374267468656d653d7265616374" alt="dmrcnr" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=dmrcnr&layout=compact&theme=react" style="max-width: 100%;">
+</p>
 
 
 
