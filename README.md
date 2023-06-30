@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caner Demir</h1>
 
-<h2 align="center">Electrical & Electronics Engineer | Lifetime Learner</h2>
+<h2 align="center">Electrical & Electronics Eng | Software Developer | Lifetime Learner</h2>
 <!--
 <p align="center" dir="auto">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gjr6med5nksautc6c53qmjqkb1zuptbul6vyhppk&rid=giphy.gif&ct=g" width="500" height="300"></center><br>
