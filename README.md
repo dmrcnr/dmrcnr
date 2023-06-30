@@ -1,26 +1,11 @@
 <h1 align="center">Hi 👋, I'm Caner Demir</h1>
 
-<!--
-**dmrcnr/dmrcnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2 align="center">Electrical & Electronics Engineer | Lifetime Learner</h2>
-
+<!--
 <p align="center" dir="auto">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gjr6med5nksautc6c53qmjqkb1zuptbul6vyhppk&rid=giphy.gif&ct=g" width="500" height="300"></center><br>
 </p>
-
+-->
 
 <h3 align="center">Connect With Me </h3>
 <p align="center" dir="auto">
